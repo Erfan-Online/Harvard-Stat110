@@ -3,7 +3,7 @@
 ## [Course URL](https://learning.edx.org/course/course-v1:HarvardX+STAT110x+2T2021/home) - (Soon to be) Paid Certificate Version
 
 ### edX Units:
-- [ ] Unit 1
+- [x] Unit 1
 - [ ] Unit 2
 - [ ] Unit 3
 - [ ] Unit 4
