@@ -2,7 +2,7 @@
 
 ## [Course URL](https://learning.edx.org/course/course-v1:HarvardX+STAT110x+2T2021/home) - Certified Version
 
-## [Certificate](https://github.com/Erfan-Online/Harvard-Stat110/blob/main/Certificate_Stat110.pdf).
+## [Certificate](https://github.com/Erfan-Online/Harvard-Stat110/blob/main/Certificate_Stat110.pdf)
 
 ### edX Units:
 - [x] Unit 1
