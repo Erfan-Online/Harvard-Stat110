@@ -14,4 +14,4 @@
 - [ ] Unit 7 
 
 ### Youtube Lectures:
-* On Lecture 16/33.
+* On Lecture 18/33.
