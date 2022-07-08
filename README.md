@@ -11,7 +11,7 @@
 - [x] Unit 4
 - [x] Unit 5
 - [ ] Unit 6
-- [ ] Unit 7 
+- [x] Unit 7 
 
 ### Youtube Lectures:
-* On Lecture 18/33.
+* On Lecture 21/33.
