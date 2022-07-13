@@ -10,7 +10,7 @@
 - [x] Unit 3
 - [x] Unit 4
 - [x] Unit 5
-- [ ] Unit 6
+- [x] Unit 6
 - [x] Unit 7 
 
 ### Youtube Lectures:
