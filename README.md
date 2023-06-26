@@ -13,5 +13,5 @@
 - [x] Unit 6
 - [x] Unit 7 
 
-### Youtube Lectures:
+### [Youtube Lectures](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo):
 * On Lecture 23/33.
